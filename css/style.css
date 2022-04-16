@@ -20,7 +20,7 @@
 }
 
 section {
-    padding: 50px 5%;
+    padding: 50px 10%;
 }
 
 body {
@@ -329,7 +329,7 @@ button:hover {
 
 .footer__nav{
     margin-left: 130px;
-    margin-right: 100px;
+    margin-right: 80px;
     margin-top: 35px;
 }
 

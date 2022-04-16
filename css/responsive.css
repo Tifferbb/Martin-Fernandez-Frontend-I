@@ -8,6 +8,10 @@
         display: inline-block;
     }
 
+    section{
+        padding: 50px 5%;
+    }
+
     .options {
         flex-direction: column;
         gap: 50px;
@@ -31,7 +35,6 @@
 
     .footer {
         flex-direction: column;
-        gap: 20px;
         height: auto;
     }
 
@@ -42,8 +45,7 @@
 
     .footer .contact__app i {
         font-size: 1.9rem;
-        margin: 0px 15px;
-        
+        margin-right: 15px;
     }
     
     .navigation{
@@ -83,6 +85,11 @@
 
     .xs-show {
         display: inline-block;
+    }
+
+    section{
+        padding: 50px 7%;
+        position: static;
     }
 
     .options {
@@ -176,7 +183,7 @@
     }
 
     .footer__nav{
-        margin-left: 25px;
+        margin-left: 20px;
     }
     
     .footer .email_box {
