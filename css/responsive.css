@@ -58,8 +58,8 @@
     }
     
     .footer .email_box {
-        order: -1;
         align-items: center;
+        order: -1;
     }
 
     .footer .footer__mobile {
@@ -108,8 +108,8 @@
     }
 
     .home__graphics {
-        transform: scale(0.65);
         position: relative;
+        transform: scale(0.65);
         top: -100px;
     }
 
@@ -197,8 +197,8 @@
         align-items: center;
         display: flex;
         flex-direction: column;
-        order: 4;
         margin-top: 50px;
+        order: 4;
     }
 }
 @media screen and (min-width: 1000px) {
